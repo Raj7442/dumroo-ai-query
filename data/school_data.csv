@@ -1,0 +1,6 @@
+student_name,grade,class,region,homework_submitted,quiz_score,quiz_date,next_quiz_date
+Aditi Sharma,8,A,North,No,78,2025-11-08,2025-11-14
+Rohan Patel,8,A,North,Yes,88,2025-11-08,2025-11-14
+Kavya Mehta,8,B,North,No,92,2025-11-08,2025-11-16
+Aarav Verma,9,A,South,Yes,81,2025-11-07,2025-11-15
+Priya Iyer,9,A,South,No,69,2025-11-07,2025-11-15
